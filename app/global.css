@@ -1,0 +1,11 @@
+a {
+    text-decoration: none;
+    color: unset;
+    opacity: .8;
+    transition: opacity .25s ease-in;
+}
+
+a:hover {
+    opacity: 1;
+    color: unset;
+}
