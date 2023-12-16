@@ -1,0 +1,11 @@
+* {
+    transition: .05s ease-out;
+}
+
+.white-link {
+    color: rgba(255, 255, 255, .8);
+}
+
+.white-link:hover {
+    color: rgba(255, 255, 255, 1);
+}

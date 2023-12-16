@@ -1,0 +1,82 @@
+[
+  {
+    "id": "2",
+    "title": "Manga name 2 Manga name 2 Manga name 2 Manga name 2 Manga name 2",
+    "description": "Manga description",
+    "url": "#",
+    "thumbnail": "https://via.placeholder.com/500x500",
+    "cover": "https://via.placeholder.com/500x500",
+    "author": "Nathanael",
+    "status": "COMPLETED",
+    "chapters": [
+      {
+        "id": "4",
+        "label": "Chapter 2 [END]",
+        "url": "#",
+        "publishedAt": "2022-01-01T00:00:00z",
+        "pages": [
+          "https://scans.lastation.us/manga/Solo-Max-Level-Newbie/0131-001.png",
+          "https://scans.lastation.us/manga/Solo-Max-Level-Newbie/0131-002.png",
+          "https://scans.lastation.us/manga/Solo-Max-Level-Newbie/0131-003.png",
+          "https://scans.lastation.us/manga/Solo-Max-Level-Newbie/0131-004.png",
+          "https://scans.lastation.us/manga/Solo-Max-Level-Newbie/0131-005.png",
+          "https://scans.lastation.us/manga/Solo-Max-Level-Newbie/0131-006.png"
+        ]
+      },
+      {
+        "id": "3",
+        "label": "Chapter 1",
+        "url": "#",
+        "publishedAt": "2022-01-01T00:00:00z",
+        "pages": [
+          "https://scans-hot.leanbox.us/manga/Onepunch-Man/0196-001.png",
+          "https://scans-hot.leanbox.us/manga/Onepunch-Man/0196-002.png",
+          "https://scans-hot.leanbox.us/manga/Onepunch-Man/0196-003.png",
+          "https://scans-hot.leanbox.us/manga/Onepunch-Man/0196-004.png",
+          "https://scans-hot.leanbox.us/manga/Onepunch-Man/0196-005.png",
+          "https://scans-hot.leanbox.us/manga/Onepunch-Man/0196-006.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "title": "Manga name",
+    "description": "Manga description",
+    "url": "#",
+    "thumbnail": "https://via.placeholder.com/500x500",
+    "cover": "https://via.placeholder.com/500x500",
+    "author": "Nathanael",
+    "status": "COMPLETED",
+    "chapters": [
+      {
+        "id": "2",
+        "label": "Chapter 2 [END]",
+        "url": "#",
+        "publishedAt": "2022-01-01T00:00:00z",
+        "pages": [
+          "https://scans.lastation.us/manga/Solo-Max-Level-Newbie/0131-001.png",
+          "https://scans.lastation.us/manga/Solo-Max-Level-Newbie/0131-002.png",
+          "https://scans.lastation.us/manga/Solo-Max-Level-Newbie/0131-003.png",
+          "https://scans.lastation.us/manga/Solo-Max-Level-Newbie/0131-004.png",
+          "https://scans.lastation.us/manga/Solo-Max-Level-Newbie/0131-005.png",
+          "https://scans.lastation.us/manga/Solo-Max-Level-Newbie/0131-006.png"
+        ]
+      },
+      {
+        "id": "1",
+        "label": "Chapter 1",
+        "url": "#",
+        "publishedAt": "2022-01-01T00:00:00z",
+        "pages": [
+          "https://scans-hot.leanbox.us/manga/Onepunch-Man/0196-001.png",
+          "https://scans-hot.leanbox.us/manga/Onepunch-Man/0196-002.png",
+          "https://scans-hot.leanbox.us/manga/Onepunch-Man/0196-003.png",
+          "https://scans-hot.leanbox.us/manga/Onepunch-Man/0196-004.png",
+          "https://scans-hot.leanbox.us/manga/Onepunch-Man/0196-005.png",
+          "https://scans-hot.leanbox.us/manga/Onepunch-Man/0196-006.png"
+        ]
+      }
+    ]
+  }
+]
